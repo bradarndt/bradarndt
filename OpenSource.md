@@ -44,6 +44,7 @@ Community-maintained helm chart for Apache Airflow.  This chart pre-dated the "o
 <br>
 
 ## [Apache Airflow](https://airflow.apache.org/) [2021]
+Airflow is a platform created by the community to programmatically author, schedule and monitor workflows.
 
 ### Contributions
 
